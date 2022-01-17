@@ -110,7 +110,7 @@ To install onto your computer (so you can just run `wifite` from any terminal),
 again, the choice is the old fashioned way of python ..
 
 ```sh
-$ bash Full-install.sh
+$ bash Full-Install.sh
 ```
 
 This will install `wifite` to `/usr/sbin/wifite` which should be in your terminal path.
