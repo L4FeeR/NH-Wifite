@@ -88,13 +88,21 @@ $ sudo make help
 ```
 
 
-Run Wifite
+Run Wifite -1
 ----------
 ```sh
 $ git clone https://github.com/kimocoder/wifite2.git
 $ cd wifite2
 $ sudo ./Wifite.py
 ```
+Run Wifite -2
+----------
+```sh
+$ wifite
+
+If your OS support
+```
+
 
 Install Wifite
 --------------
@@ -102,11 +110,7 @@ To install onto your computer (so you can just run `wifite` from any terminal),
 again, the choice is the old fashioned way of python ..
 
 ```sh
-$ sudo python3 setup.py install
-```
-
-```sh
-$ make help
+$ bash Full-install.sh
 ```
 
 This will install `wifite` to `/usr/sbin/wifite` which should be in your terminal path.
