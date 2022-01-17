@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: wifite
+Version: 2.5.8
+Summary: Wireless Network Auditor for Linux & Android
+Home-page: https://github.com/kimocoder/wifite2
+Author: kimocoder
+Author-email: christian@aircrack-ng.org
+License: GNU GPLv2
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+License-File: LICENSE
+
+Wireless Network Auditor for Linux & Android.
+
+    Sniff, Injects and Cracks WEP, WPA/2, and WPS encrypted networks.
+
+    Depends on Aircrack-ng Suite, Tshark (from Wireshark),
+    and various other external tools.
+

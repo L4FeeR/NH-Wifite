@@ -1,0 +1,4 @@
+#!/usr/bin/python3
+
+from wifite import __main__
+__main__.entry_point()
